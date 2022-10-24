@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello! Welcome to Qi Xin's homepage! "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to Qi Xin's homepage! 
+
 
 Education
 ======
