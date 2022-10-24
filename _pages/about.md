@@ -25,10 +25,8 @@ Research Experience
 ======
 My research lies in time series analysis with special focus on point processes and their applications in neuroscience. 
 
-Detecting interactions between multiple groups of point processes in brain data   
-
-Mar 2022 – Present
-
+Detecting interactions between multiple groups of point processes in brain data  
+Mar 2022 – Present  
 Advisor: Prof. Robert E. Kass
 * Designed a robust and efficient generative model to detect interactions between groups of point processes.
 * Achieved higher statistical power while reducing quadratic complexity to linear complexity, by pooling point processes and introducing non-linear self-modulating effects.
@@ -50,7 +48,7 @@ Advisor: Prof. Quan Wen
 * Built a biological neural network model that explains and reproduces the behavioral statistics of C. elegans (roundworm) escape response. The model correctly predicted results of other experiments, including optogenetic and calcium imaging.
 * Trained a recurrent spiking network to perform escape response with evolutionary algorithm, which matches the proposed model undesignedly.
 
-Theoretical study on point process generalized linear models  \ Dec 2019 – Dec 2020 \ 
+Theoretical study on point process generalized linear models  Dec 2019 – Dec 2020 
 Advisor: Prof. Robert Kass
 * Proved orthogonality of the history effect to stimulus effect in point process generalized linear models of spiking neurons.
 * Developed an algorithm that estimates coupling effects twenty times more efficiently than traditional approaches.
