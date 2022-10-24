@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Statistics and Neural Computation, Carnegie Mellon University, Jan 2020 - (exp) Dec 2024
+* B.S. in Physics, University of Science and Technology of China (USTC), 2014 - 2018
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,16 +24,17 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+  * Supervisor: Professor Hub -->
+
+Qualification
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 5+ Years research experience in statistics, computational neuroscience, and machine learning.
+* 5+ Years of programming experience, familiar with Python (PyTorch, Jupyter Notebook), MATLAB, R, LaTeX.
+
+Research Experience
+======
+My research lies in time series analysis with special focus on point processes and their applications in neuroscience. 
+
 
 Publications
 ======
@@ -53,7 +53,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
