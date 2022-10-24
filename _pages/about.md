@@ -25,26 +25,26 @@ Research Experience
 ======
 My research lies in time series analysis with special focus on point processes and their applications in neuroscience. 
 
-*Detecting interactions between multiple groups of point processes in brain data*  
+**Detecting interactions between multiple groups of point processes in brain data**  
 Mar 2022 – Present  
 Advisor: Prof. Robert E. Kass  
 * Designed a robust and efficient generative model to detect interactions between groups of point processes.
 * Achieved higher statistical power while reducing quadratic complexity to linear complexity, by pooling point processes and introducing non-linear self-modulating effects.
 * The inferred graph of communication between mouse visual areas reveals new cross-area interactions undiscovered.
 
-*Neural activity reconstruction from multi-electrode local field potential recording*  
+**Neural activity reconstruction from multi-electrode local field potential recording**  
 Jan 2021 – Oct 2021  
 Advisor: Prof. Robert E. Kass  
 * Created a current source reconstruction method based on regularized regression, which outperforms current methods with higher accuracy and fewer artifacts.
 * Developed an optimization algorithm which efficiently handles highly correlated predictors with multiple regularization terms including L1 penalty.
 
-*Modeling the locomotion decision-making network of C. elegans*  
+**Modeling the locomotion decision-making network of C. elegans**  
 Apr 2017 – Jun 2019  
 Advisor: Prof. Quan Wen  
 * Built a biological neural network model that explains and reproduces the behavioral statistics of C. elegans (roundworm) escape response. The model correctly predicted results of other experiments, including optogenetic and calcium imaging.
 * Trained a recurrent spiking network to perform escape response with evolutionary algorithm, which matches the proposed model undesignedly.
 
-*Theoretical study on point process generalized linear models*  
+**Theoretical study on point process generalized linear models**  
 Dec 2019 – Dec 2020  
 Advisor: Prof. Robert Kass  
 * Proved orthogonality of the history effect to stimulus effect in point process generalized linear models of spiking neurons.
@@ -57,7 +57,7 @@ Advisor: Prof. Robert Kass
 
 Selected Course Project
 ======
-*Image caption generation with Transformer-Transformer architecture*  
+**Image caption generation with Transformer-Transformer architecture**  
 Fall 2021  
 Course: 10-701 Introduction to Machine Learning  
 * We implemented a Transformer-Transformer architecture image captioning model, with pretrained Vision Transformer (ViT) as the encoder and GPT-2 as the decoder. After fine-tuning, our model outperforms the CNN-LSTM baseline. We further improved the performance by data augmentation. See our final report here.
