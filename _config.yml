@@ -85,10 +85,10 @@ author:
   bio              : "PhD student in Statistics and Neural Computation at CMU"
   location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4qVE9n4AAAAJ&hl=zh-CN"
   email            : "qix@andrew.cmu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/qi-xin-6546a2175/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "qi-xin-6546a2175"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

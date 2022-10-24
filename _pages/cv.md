@@ -35,7 +35,6 @@ Research Experience
 ======
 My research lies in time series analysis with special focus on point processes and their applications in neuroscience. 
 
-
 Publications
 ======
   <ul>{% for post in site.publications %}
