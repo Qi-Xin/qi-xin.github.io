@@ -60,4 +60,4 @@ Selected Course Project
 *Image caption generation with Transformer-Transformer architecture*  
 Fall 2021  
 Course: 10-701 Introduction to Machine Learning  
-We implemented a Transformer-Transformer architecture image captioning model, with pretrained Vision Transformer (ViT) as the encoder and GPT-2 as the decoder. After fine-tuning, our model outperforms the CNN-LSTM baseline. We further improved the performance by data augmentation. See our final report here.
+* We implemented a Transformer-Transformer architecture image captioning model, with pretrained Vision Transformer (ViT) as the encoder and GPT-2 as the decoder. After fine-tuning, our model outperforms the CNN-LSTM baseline. We further improved the performance by data augmentation. See our final report here.
