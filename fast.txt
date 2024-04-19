@@ -32,3 +32,4 @@ xinqi@mail.ustc.edu.cn
 19960511
 4513441636
 
+srun --pty bash
