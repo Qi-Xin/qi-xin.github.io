@@ -1,21 +1,15 @@
 Server command: 
-
 (If using windows) 
-
 net start sshd
-
 jupyter notebook --no-browser --port=8889
-
 jupyter lab --no-browser --port=8889
 
 Terminal command: 
-
+xinqi@192.168.0.19 (check new ip using "ipconfig")
 ssh -N -f -L localhost:8888:localhost:8889 qix@exxact1.stat.cmu.edu
-
 ssh -N -f -L localhost:8888:localhost:8889 -p 80 xinqi@67.171.70.107
 
 (To kill occupied port 8888)
-
 kill -9 $(lsof -ti :8888)
 pkill -u qix
 
